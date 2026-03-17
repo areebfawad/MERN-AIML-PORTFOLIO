@@ -1,0 +1,290 @@
+{
+  "personal_info": {
+    "section_title": "Personal Info",
+    "name": "Areeb Fawad",
+    "tagline": "Full-Stack MERN Developer | AI/ML Engineer | Prompt Engineer | AI Assistant Developer | Automation & Workflow Specialist",
+    "location": "Karachi, Pakistan",
+    "contact_links": {
+      "email": "areebfawad123123@gmail.com",
+      "phone": "+92 331 17017077",
+      "linkedin": "https://www.linkedin.com/in/areebfawad/",
+      "github": "https://github.com/areebfawad",
+      "instagram": "https://www.instagram.com/areebfawad/",
+      "twitter": "https://twitter.com/areebfawad",
+      "facebook": "https://www.facebook.com/areebfawad/",
+      "portfolio": "https://areebfawad.vercel.app/",
+      "other": []
+    }
+  },
+  "skills": {
+    "section_title": "Technical Skills",
+    "categories": [
+      {
+        "title": "Frontend",
+        "items": [
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "Tailwind CSS",
+          "JavaScript",
+          "TypeScript",
+          "React.js",
+          "Next.js",
+          "Material-UI",
+          "Responsive UI",
+          "Animations",
+          "Transitions"
+        ],
+        "ui": {
+          "color_theme": "blue",
+          "direction": "left"
+        }
+      },
+      {
+        "title": "Backend & Full-Stack",
+        "items": [
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Firebase",
+          "Supabase",
+          "REST APIs",
+          "Authentication",
+          "Server-side Logic"
+        ],
+        "ui": {
+          "color_theme": "emerald",
+          "direction": "right"
+        }
+      },
+      {
+        "title": "AI / ML",
+        "items": [
+          "Python",
+          "AI assistant development",
+          "Generative AI",
+          "AI model training & deployment",
+          "Machine Learning pipelines",
+          "AI integrations"
+        ],
+        "ui": {
+          "color_theme": "purple",
+          "direction": "float"
+        }
+      },
+      {
+        "title": "Hardware Engineering",
+        "items": [
+          "Computer hardware troubleshooting",
+          "Laptop hardware repairing",
+          "System debugging & diagnostics",
+          "Component replacement (RAM, SSD, motherboard basics)",
+          "System performance optimization"
+        ],
+        "ui": {
+          "color_theme": "zinc",
+          "direction": "float"
+        }
+      },
+      {
+        "title": "Automation & Tools",
+        "items": [
+          "n8n workflow automation",
+          "API integrations",
+          "AI-assisted coding",
+          "Prompt Engineering"
+        ],
+        "ui": {
+          "color_theme": "amber",
+          "direction": "pulse"
+        }
+      },
+      {
+        "title": "Languages",
+        "items": [
+          "Python",
+          "Java",
+          "C",
+          "JavaScript",
+          "TypeScript",
+          "C++",
+          "C#"
+        ],
+        "ui": {
+          "color_theme": "rose",
+          "direction": "left"
+        }
+      }
+    ]
+  },
+  "education": {
+    "section_title": "Education",
+    "degrees": [
+      {
+        "title": "Matriculation in Computer Science",
+        "institution": "The Educators",
+        "years": "2021 - 2022",
+        "ui": {
+          "icon": "school"
+        }
+      },
+      {
+        "title": "Intermediate in Computer Science",
+        "institution": "College For Advanced Studies",
+        "years": "2022 - 2024",
+        "ui": {
+          "icon": "college"
+        }
+      },
+      {
+        "title": "Web & App Development",
+        "institution": "SMIT",
+        "years": "2024 - 2025",
+        "ui": {
+          "icon": "code"
+        }
+      },
+      {
+        "title": "Artificial Intelligence & Data Science",
+        "institution": "SMIT",
+        "years": "2025 - 2026",
+        "ui": {
+          "icon": "ai"
+        }
+      },
+      {
+        "title": "Data Science Course",
+        "institution": "NED University",
+        "years": "2025",
+        "ui": {
+          "icon": "university"
+        }
+      },
+      {
+        "title": "Bachelors in Artificial Intelligence",
+        "institution": "Sindh Madrasatul Islam University",
+        "years": "2024 - 2027",
+        "status": "Ongoing",
+        "ui": {
+          "icon": "university"
+        }
+      }
+    ]
+  },
+  "projects": {
+    "section_title": "Projects",
+    "list": [
+      {
+        "name": "AI-Powered Task Automation",
+        "description": "A workflow automation system using n8n and Python scripts to automate repetitive tasks, integrate APIs, and generate AI-assisted reports.",
+        "tech_stack": [
+          "Python",
+          "n8n",
+          "AI APIs",
+          "REST API"
+        ],
+        "live_link": "",
+        "github_link": ""
+      },
+      {
+        "name": "AI Assistant Chatbot",
+        "description": "An AI assistant capable of answering queries, generating code snippets, and integrating with web apps for productivity enhancement.",
+        "tech_stack": [
+          "Python",
+          "OpenAI API",
+          "React.js",
+          "Node.js"
+        ],
+        "live_link": "",
+        "github_link": ""
+      },
+      {
+        "name": "ML Model Training & Deployment",
+        "description": "End-to-end pipeline for training machine learning models, evaluating performance, and deploying them via a web interface for AI-powered applications.",
+        "tech_stack": [
+          "Python",
+          "scikit-learn",
+          "TensorFlow",
+          "Node.js",
+          "MongoDB"
+        ],
+        "live_link": "",
+        "github_link": ""
+      },
+      {
+        "name": "AI-Integrated MERN Web App",
+        "description": "A full-stack MERN application with AI-powered features like recommendation engine, predictive analytics, and intelligent content suggestions.",
+        "tech_stack": [
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "MongoDB",
+          "Python AI modules"
+        ],
+        "live_link": "",
+        "github_link": ""
+      }
+    ]
+  },
+  "achievements": {
+    "section_title": "Achievements / Certifications",
+    "list": [
+      {
+        "title": "Hackathons participation (AI & Web Development)",
+        "type": "Hackathon",
+        "ui": {
+          "color": "blue",
+          "icon": "trophy"
+        }
+      },
+      {
+        "title": "AI & ML online courses / certifications",
+        "type": "Certification",
+        "ui": {
+          "color": "green",
+          "icon": "certificate"
+        }
+      },
+      {
+        "title": "Prompt Engineering workshops",
+        "type": "Workshop",
+        "ui": {
+          "color": "purple",
+          "icon": "bolt"
+        }
+      },
+      {
+        "title": "Automation & Workflow design recognitions",
+        "type": "Award",
+        "ui": {
+          "color": "blue",
+          "icon": "star"
+        }
+      },
+      {
+        "title": "Full-Stack Web App Competitions",
+        "type": "Competition",
+        "ui": {
+          "color": "green",
+          "icon": "fire"
+        }
+      },
+      {
+        "title": "Built AI-powered automation systems using n8n with real-world workflow integrations",
+        "type": "AI/Automation",
+        "ui": {
+          "color": "purple",
+          "icon": "bolt"
+        }
+      }
+    ]
+  },
+  "professional_vibe": {
+    "section_title": "Professional Vibe",
+    "bio": "AI Engineer + Full-Stack MERN Developer + Automation Expert. Master in coding, prompt engineering, AI assistant development, workflow automation. Passion for building AI-integrated apps, responsive web apps, and intelligent solutions. Fluent in English & Urdu. Loves coding, cricket, travelling, and gym."
+  },
+  "notes": {
+    "section_title": "Notes",
+    "content": "Updated Education (NED, SMIU) and added Hardware Engineering skill category."
+  }
+}
